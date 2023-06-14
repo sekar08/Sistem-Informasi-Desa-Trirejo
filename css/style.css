@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Courier, monospace;
+    font-size: 15px;
+}
+html {
+    background-color: hsl(#80d6b5);
+}
+#apps {
+    width: 760px;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #42baed;
+
+}
+h1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.first{
+    width: 760px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #dbce3d;  
+}
+.first from p a {
+    color : red;
+}
